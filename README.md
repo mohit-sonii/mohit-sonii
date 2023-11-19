@@ -1,17 +1,17 @@
-<h1 style="text-align: center;"> Hi 👋, I'm Mohit </h1>
-<h3 style="text-align: center";> BCA Student | Programmer | Design Enthusiast</h3>
-<img align="right" alt="Coding GIF" width="600px" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" height="300">
+<h1 align="center"> Hi 👋, I'm Mohit </h1>
+<h3 align="center"> BCA Student | Programmer | Design Enthusiast</h3>
+<img align="right" alt="Coding GIF" width="300px" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" height="300">
 
 • 🎓 Pursuing BCA from Vaish College, Bhiwnani 
-<br><br>
+
 • 🤓 Currently I'm in 2nd Year (3rd sem)
-<br><br>
+
 • 🌱 I am learning Web development and 
-<br><br>
+
 • 🌱 On weekends I do DSA to improve my logic.
-<br><br>
+
 • 🎨 I'm also a designer and I love to design beautiful websites
-<br><br>
+
 
 <h3 style="text-align: left;"> Design Portfolio</h3>
 <p style="text-align: left;">
