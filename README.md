@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-     <a href="mailto:mohitsoni9731@gmail.com" target="_blank" title="Gmail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="GMail" width="50" height="50" /></a>
-     <a href="https://www.instagram.com/developer.mohit" target="_blank" title="My Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" width="50" height="50" />
+     <a href="mailto:mohitsoni9731@gmail.com" target="_blank" title="Gmail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="GMail" width="35" height="30" /></a>
+     <a href="https://www.instagram.com/developer.mohit" target="_blank" title="My Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" width="40" height="35" />
      </a>
 
 </p>
