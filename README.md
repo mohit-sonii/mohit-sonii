@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student | Programmer | Design Enthusiast</h3>
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-🎓 Pursuing BCA from Vaish College, Bhiwnani 
+🎓 Pursuing BCA from Vaish College, Bhiwani 
 
 🤓 Currently I'm in 2nd Year (3rd sem)
 
