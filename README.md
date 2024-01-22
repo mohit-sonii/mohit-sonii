@@ -2,8 +2,10 @@
 <h3 align="center">Web Designer | BCA Student | Passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-sonii&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-sonii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-sonii&theme=onedark" alt="mohit-sonii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-sonii&theme=matrix" alt="mohit-sonii" /></a> </p>
 
+- 🎓 Pursuing BCA from ** Vaish College, Bhiwani**
+- 🌱 I am learning **Web Development and DSA**
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Frontend Development**
 
@@ -27,18 +29,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-sonii&layout=compact&theme=dark" alt=mohit-sonii />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-sonii&layout=compact&theme=merko" alt=mohit-sonii />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit-sonii&show_icons=true&locale=en&theme=" alt="mohit-sonii" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit-sonii&show_icons=true&locale=en&theme=merko" alt="mohit-sonii" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-sonii&theme=" alt="mohit-sonii" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-sonii&theme=merko" alt="mohit-sonii" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mohit-sonii">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit-sonii&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit-sonii&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit-sonii&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit-sonii&theme=jolly" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohit-sonii&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohit-sonii&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit-sonii&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit-sonii&theme=jolly" height="180em" />
 </div>
