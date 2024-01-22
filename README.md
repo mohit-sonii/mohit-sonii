@@ -1,24 +1,88 @@
-# 💫 About Me:
-🎓 Pursuing BCA from Vaish College, Bhiwani<br><br>🤓 Currently I'm in 2nd Year (4th sem)<br><br>🌱 I am learning Web development and<br><br>🌱 On weekends I do DSA to improve my logic.<br><br>🎨 I'm also a designer and I love to design beautiful websites
+## Hey 👋, I'm Mohit   
+  
+
+<a href="https://github.com/mohit-sonii" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/mohitsoni__" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/developer.mohit" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/mohitsoni29" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-soni-808984265" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mohitsoni29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer.mohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-soni-808984265/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitsoni__) 
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohit-sonii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohit-sonii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-sonii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- BCA Student | Frontend Developer | Web Designer  
+  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohit-sonii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- Pursuing BCA from Vaish College, Bhiwani and currently I am in 2nd Year (4th sem)  
+  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohit-sonii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- I am learning Web development and 
+On weekends I do DSA to improve my logic  
 
----
-[![](https://visitcount.itsvg.in/api?id=mohit-sonii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohit-sonii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-sonii&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=mohit-soni&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
