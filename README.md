@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Web Designer | BCA Student | Passionate Frontend Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-sonii&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-sonii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-sonii&theme=dark_lover" alt="mohit-sonii" /></a> </p>
 
 - 🎓 Pursuing BCA from Vaish College **Bhiwani**
 - 🌱 I am learning **Web Development and DSA**
