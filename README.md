@@ -4,7 +4,7 @@
 <div><img align="right" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt= "A" width="360" height="300"></div>
 
 
-<br>
+<br><br>
 - 🎓 Pursuing BCA from Vaish College **Bhiwani**
 - 🌱 I am learning **Web Development and DSA**
 - 🌱 I’m currently learning **React**
