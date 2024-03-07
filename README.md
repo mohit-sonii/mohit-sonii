@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Web Designer | BCA Student | Passionate Frontend Developer</h3>
 
-<img align="right" src = "https://img.freepik.com/premium-vector/realistic-concept-programming-scene-without-people-3d-cartoon-design-programmer-writes-code_198565-2686.jpg" alt= "A" width="400" height="400">
+<div><img align="right" src = "https://img.freepik.com/premium-vector/realistic-concept-programming-scene-without-people-3d-cartoon-design-programmer-writes-code_198565-2686.jpg" alt= "A" width="300" height="300"></div>
+
+
+
 - 🎓 Pursuing BCA from Vaish College **Bhiwani**
 - 🌱 I am learning **Web Development and DSA**
 - 🌱 I’m currently learning **React**
