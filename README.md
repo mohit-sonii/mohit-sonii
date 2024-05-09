@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">Web Designer | BCA Student | Passionate Frontend Developer</h3>
+<h3 align="center">Web Designer | BCA Student | Aspiring MERN Stack Developer</h3>
 <br>
 <div><img align="right" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt= "A" width="360" height="300"></div>
 
