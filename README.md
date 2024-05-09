@@ -6,10 +6,11 @@
 
 <br><br>
 - 🎓 Pursuing BCA from Vaish College **Bhiwani**
-- 🌱 I am learning **Web Development and DSA**
-- 🌱 I’m currently learning **ReactJS for Production**
-- 💬 Ask me about **Frontend Development**
--  👨‍💻 All of my projects are available at **https://bento.me/mohit-sonii**
+- 🌱 I am Practice **DSA using Java** everyday
+- 🌱 In Devleopment I’m learning **MERN Stack Development**
+- 💬 Ask me about **Web Development**
+- 👨‍💻 I am a content creator as **@developer.mohit** on Instagram
+- 👨‍💻 All of my projects are available at **https://bento.me/mohit-sonii**
 - 📝 I regularly write articles on web development concepts **https://developermohit.hashnode.dev/**
 
 
