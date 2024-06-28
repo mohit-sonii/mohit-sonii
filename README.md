@@ -1,43 +1,32 @@
-<h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">Web Designer | BCA Student | Aspiring MERN Stack Developer</h3>
-<br>
-<div><img align="right" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt= "A" width="360" height="300"></div>
+<h1 align="center"><b>Hi there! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="👋" width="30" height="30" /> I'm Mohit Soni</b></h1>
+<h2 align="center"><b>A passionate Full Stack Developer and Web Designer</b></h2>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕️" width="25" height="25"> **About Me**
+
+🔭 **Currently focusing on** <br>Improving Skills in Web Development<br><br>
+🎓 **Academics Status** <br>Pursuing BCA Final Year<br><br>
+🌱 **Currently learning** <br>MERN in depth<br><br>
+👯 **Looking to collaborate on** <br>MERN Stack Projects<br><br>
+💬 **Ask me about** <br>JavaScript, React, MongoDB, Node.js
+
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="25" height="25"> **Tech Stack**
+
+![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=e34c26) ![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=2965f1) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f0db4f)  ![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=3c873a) ![Express.js](https://img.shields.io/badge/express.js-000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React) ![React Router](https://img.shields.io/badge/React_Router-000?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailWind_Css-000?style=for-the-badge&logo=tailwindcss) ![MUI](https://img.shields.io/badge/MUI-000.svg?style=for-the-badge&logo=mui&logoColor=f44336) ![BootStrap](https://img.shields.io/badge/-Bootstarp-000?style=for-the-badge&logo=Bootstrap&logoColor=007bff) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-000.svg?style=for-the-badge&logo=redux&logoColor=764abc) ![npm](https://img.shields.io/badge/-npm-000?style=for-the-badge&logo=npm) ![Yarn](https://img.shields.io/badge/yarn-000.svg?style=for-the-badge&logo=yarn&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=eslint&logoColor=A0A0F5) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma) ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-mongodb-000?style=for-the-badge&logo=mongodb)
+
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" alt="🛠️" width="25" height="25"> **Tools**
+
+![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github) ![VisualStudioCode](https://img.shields.io/badge/-vs_code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0A66C2) ![Postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
 
 
-<br><br>
-- 🎓 Pursuing BCA from Vaish College **Bhiwani**
-- 🌱 I am Practice **DSA using Java** everyday
-- 🌱 In Devleopment I’m learning **MERN Stack Development**
-- 💬 Ask me about **Web Development**
-- 👨‍💻 I am a content creator as **@developer.mohit** on Instagram
-- 👨‍💻 All of my projects are available at **https://bento.me/mohit-sonii**
-- 📝 I regularly write articles on web development concepts **https://developermohit.hashnode.dev/**
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
+
+##### [One Vote](https://voting-application-mern.vercel.app/) - Voting Application - MERN
+
+##### [Commerce Harbor FZE](https://mohit-sonii.github.io/Commerce-Harbor-FZE---React/) - Raw Plastic Supplier -- MERN
 
 
-<div> <a href="https://twitter.com/mohitsoni__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mohit-soni-808984265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
-<a href="https://github.com/mohit-sonii" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/developer.mohit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohitsoni__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="mohitsoni__" height="30" width="40" /></a><a href="https://linkedin.com/in/mohit-soni-808984265" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mohit-soni-808984265" height="30" width="40" /></a><a href="https://instagram.com/developer.mohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="developer.mohit" height="30" width="40" /></a><a href="https://www.behance.net/mohitsoni29" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="mohitsoni29" height="30" width="40" /></a><a href="https://hashnode.com/@DeveloperMohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hashnode.svg" alt="@DeveloperMohit" height="30" width="40" /></a><a href="https://www.leetcode.com/mohit-soniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="mohit-soniii" height="30" width="40" /></a></p>
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="25" height="25"> **Let's Connect**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" alt="Framer" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p> <br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mohit.soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mohit.soni" /></a></p><br><br>
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&style=for-the-badge&logo=gmail&logoColor=EB1928)](mailto:mohitsoni9731@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/developer.mohit) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohit-soni-808984265/) [![Twitter](https://img.shields.io/badge/-Twitter-000?&style=for-the-badge&logo=x&logoColor=F9423A)](https://twitter.com/mohitsoni__) [![Bento](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](https://bento.me/mohit-sonii)
+
+---
