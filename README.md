@@ -3,7 +3,7 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕️" width="25" height="25"> **About Me**
 
-🔭 **Currently focusing on** <br>Improving Skills in Web Development<br><br>
+🔭 **Currently focusing on** <br>Prisma and GraphQl for query<br><br>
 🎓 **Academics Status** <br>Pursuing BCA Final Year<br><br>
 🌱 **Currently learning** <br>MERN in depth<br><br>
 👯 **Looking to collaborate on** <br>MERN Stack Projects<br><br>
