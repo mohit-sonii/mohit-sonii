@@ -20,7 +20,7 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
 
-##### [One Vote](https://voting-application-mern.netlify.app/) - Voting Application - MERN (Under Production)
+##### [One Vote](https://voting-application-mern.netlify.app/) - Voting Application - MERN 
 
 ##### [Commerce Harbor FZE](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier -- MERN
 
