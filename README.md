@@ -5,7 +5,7 @@
 
 🔭 **Currently focusing on** <br>Improving skills in web development<br><br>
 🎓 **Academics Status** <br>Pursuing BCA Final Year<br><br>
-🌱 **Currently learning** <br>Prisma<br><br>
+🌱 **Currently learning** <br>NextJS<br><br>
 👯 **Looking to collaborate on** <br>MERN Stack Projects<br><br>
 💬 **Ask me about** <br>TypeScript, React, MongoDB, Node.js
 
