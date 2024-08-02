@@ -23,7 +23,7 @@
 
 ##### [One Vote](https://voting-application-mern.netlify.app/) - Advance Voting Application - MERN 
 
-##### [Commerce Harbor FZE](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier -- Multiple Technologies
+##### [Commerce Harbor FZE](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier -- MERN , Prsima, NextJS
 
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="25" height="25"> **Let's Connect**
