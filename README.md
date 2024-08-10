@@ -5,9 +5,9 @@
 
 🔭 **Currently focusing on** <br>Improving skills in web development<br><br>
 🎓 **Academics Status** <br>Pursuing BCA Final Year<br><br>
-🌱 **Currently learning** <br>NextJS<br><br>
+🌱 **Currently learning** <br>Postgre SQL<br><br>
 👯 **Looking to collaborate on** <br>MERN Stack Projects<br><br>
-💬 **Ask me about** <br>TypeScript, React, MongoDB, Node.js
+💬 **Ask me about** <br>TypeScript, React, Next.js
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="25" height="25"> **Tech Stack**
 
