@@ -18,19 +18,19 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" alt="🛠️" width="25" height="25"> **Tools**
 
-![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github) ![VisualStudioCode](https://img.shields.io/badge/-vs_code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0A66C2) ![Postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
+![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github) ![VisualStudioCode](https://img.shields.io/badge/-vs_code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0A66C2) ![Postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)  
 
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
 
-##### [One Vote](https://voting-application-mern.netlify.app/) - Advance Voting Application - MERN 
+##### [One Vote](https://voting-application-mern.netlify.app/) - Advance Voting Application - MERN , Typescript
 
-##### [Commerce Harbor FZE](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier -- MERN , Prsima, NextJS
+##### [Commerce Harbor FZE](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier -- MERN , Prsima, NextJS, TypeScript
 
-##### [Developer Mohit](https://developer-mohit.netlify.app/) - Personal Website --  NextJS, MongoDB
+##### [Developer Mohit](https://developer-mohit.netlify.app/) - Personal Website --  NextJS, PostgreSQL, TypeScript
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="25" height="25"> **Let's Connect**
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&style=for-the-badge&logo=gmail&logoColor=EB1928)](mailto:mohitsoni9731@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/developer.mohit) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohit-soni-808984265/) [![Twitter](https://img.shields.io/badge/-Twitter-000?&style=for-the-badge&logo=x&logoColor=F9423A)](https://twitter.com/mohitsoni__) [![Bento](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](https://bento.me/mohit-sonii)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&style=for-the-badge&logo=gmail&logoColor=EB1928)](mailto:mohitsoni9731@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/developer.mohit) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohit-soni-808984265/) [![Twitter](https://img.shields.io/badge/-Twitter-000?&style=for-the-badge&logo=x&logoColor=F9423A)](https://twitter.com/mohitsoni__) [![Bento](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](https://bento.me/mohit-sonii) [![Leetcode](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](https://leetcode.com/u/mohitsoni77/)
 
 ---
