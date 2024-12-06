@@ -24,7 +24,7 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
 
-##### [Schoolify](https://schoolify-application.netlify.app/) - Ultimate School Management System - NextJS , Typescript, Zod, MUI, Zustand, Prisma, PostgreSQL (username - "mohit" password - "MohitSoni123!!!")
+##### [Schoolify](https://schoolify-application.netlify.app/) - Ultimate School Management System - NextJS , Typescript, Zod, MUI, Zustand, Prisma, PostgreSQL, Docker (username - "mohit" password - "MohitSoni123!!!")
 
 ##### [One Vote](https://voting-application-mern.netlify.app/) - Advance Voting Application - MongoDB, ReactJS, ExpressJS, NodeJs , Typescript
 
