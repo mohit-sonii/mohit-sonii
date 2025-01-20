@@ -24,15 +24,15 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
 
-##### [Schoolify](https://schoolify-application.netlify.app/) - Ultimate School Management System - NextJS , Typescript, Zod, MUI, Zustand, Prisma, PostgreSQL, Docker (username - "mohit" password - "MohitSoni123!!!")
+##### [Schoolify](https://schoolify-application.netlify.app/) - Ultimate School Management System - NextJS , Typescript, Zod, MUI, Zustand, Prisma, PostgreSQL, Docker 
 
 ##### [One Vote](https://voting-application-mern.netlify.app/) - Advance Voting Application - MongoDB, ReactJS, ExpressJS, NodeJs , Typescript
 
-##### [Developer Mohit](https://developer-mohit.netlify.app/) - Personal Website --  NextJS, PostgreSQL, TypeScript
+##### [Developer Mohit](https://developer-mohit.netlify.app/) - Personal Website --  AWS RDS, NextJS, PostgreSQL, TypeScript
 
 ##### [DoIt](https://mohit-sonii.github.io/ToDo-List---React/) - Advance ToDo Application --  ReactJS, MongoDB, ExpressJS, NodeJS
 
-##### [PlastiCart](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier Application -- MongoDB, ExpressJS , Prsima, NextJS, TypeScript, Figma
+##### [PlastiCart](https://commerce-harbor-fze.netlify.app/) - Raw Plastic Supplier Application -- AWS RDS, PostgreSQL, ExpressJS , Prisma, NextJS, TypeScript, Figma
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="25" height="25"> **Let's Connect**
 
