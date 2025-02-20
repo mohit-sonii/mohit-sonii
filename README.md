@@ -5,7 +5,7 @@
 
 🔭 **Currently focusing on** <br>Improving skills in web development<br><br>
 🎓 **Academics Status** <br>Pursuing BCA Final Year<br><br>
-🌱 **Currently learning** <br>Python<br><br>
+🌱 **Currently learning** <br>Java Full Stack<br><br>
 📧 **Reach ME** <br>mohitsoni777@outlook.com<br><br>
 👯 **Looking to collaborate on** <br>Full Stack Projects<br><br>
 💬 **Ask me about** <br>TypeScript, React, Next.js
