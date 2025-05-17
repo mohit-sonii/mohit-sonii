@@ -3,12 +3,10 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕️" width="25" height="25"> **About Me**
 
-🔭 **Currently focusing on** <br>Improving skills in web development<br><br>
-🎓 **Academics Status** <br>Pursuing BCA Final Year<br><br>
-🌱 **Currently learning** <br>Java Full Stack<br><br>
+🔭 **Currently focusing on** <br>Improving skills in web development<br><br>🌱 **Currently learning** <br>Java Full Stack<br><br>
 📧 **Reach ME** <br>mohitsoni777@outlook.com<br><br>
 👯 **Looking to collaborate on** <br>Full Stack Projects<br><br>
-💬 **Ask me about** <br>TypeScript, React, Next.js
+💬 **Ask me about** <br>TypeScript, React, Next.js, Spring Boot
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="25" height="25"> **Tech Stack**
 
