@@ -29,6 +29,8 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
 
+##### [Expense Tracker](https://github.com/mohit-sonii/expense-tracker) - First Saas Product  - Under Production - Java, Spring Boot, Hibernate, Maven, Docker, Prisma, PostgreSQL. Plan to add -> Next.js, React Hook Form, ShadCN, MUI, Zustand, Typescript, Redis, Kafka
+
 ##### [Schoolify](https://schoolify-application.netlify.app/) - Ultimate School Management System - NextJS , Typescript, Zod, MUI, Zustand, Prisma, PostgreSQL, Docker 
 
 ##### [One Vote](https://voting-application-mern.netlify.app/) - Advance Voting Application - MongoDB, ReactJS, ExpressJS, NodeJs , Typescript
