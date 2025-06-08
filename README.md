@@ -16,7 +16,6 @@
 ![Maven](https://img.shields.io/badge/maven-000.svg?style=for-the-badge&logo=apachemaven&logoColor=%23C71A36)
 ![JUnit](https://img.shields.io/badge/junit-000.svg?style=for-the-badge&logo=junit5&logoColor=%25E34F26)
 ![Hibernate](https://img.shields.io/badge/hibernate-000.svg?style=for-the-badge&logo=hibernate&logoColor=%23B48B33)
-![Vercel](https://img.shields.io/badge/vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
 
