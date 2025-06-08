@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hello there! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="👋" width="30" height="30" /> I'm Mohit Soni</b></h1>
-<h2 align="center"><b>A passionate Software Engineer from Bharat</b></h2>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕️" width="25" height="25"> **About Me**
 
