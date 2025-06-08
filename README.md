@@ -15,16 +15,17 @@
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-000.svg?style=for-the-badge&logo=springboot&logoColor=%236DB33F)
 ![Maven](https://img.shields.io/badge/maven-000.svg?style=for-the-badge&logo=apachemaven&logoColor=%23C71A36)
 ![JUnit](https://img.shields.io/badge/junit-000.svg?style=for-the-badge&logo=junit5&logoColor=%25E34F26)
-![Redis](https://img.shields.io/badge/redis-000.svg?style=for-the-badge&logo=redis&logoColor=%23DC382D)
-
-
+![Hibernate](https://img.shields.io/badge/hibernate-000.svg?style=for-the-badge&logo=hibernate&logoColor=%23B48B33)
+![Vercel](https://img.shields.io/badge/vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
 
 
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" alt="🛠️" width="25" height="25"> **Tools**
 
-![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github) ![VisualStudioCode](https://img.shields.io/badge/-vs_code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0A66C2) ![Postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)  
+![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github) ![VisualStudioCode](https://img.shields.io/badge/-vs_code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0A66C2) ![Postman](https://img.shields.io/badge/-postman-000?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma) ![PyCharm](https://img.shields.io/badge/-pycharm-000?style=for-the-badge&logo=pycharm) ![IntelliJ IDEA](https://img.shields.io/badge/-intellij%20idea-000?style=for-the-badge&logo=intellij-idea)
+
 
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="🚀" width="25" height="25"> **My Projects**
@@ -43,6 +44,6 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="25" height="25"> **Let's Connect**
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&style=for-the-badge&logo=gmail&logoColor=EB1928)](mailto:mohitsoni9731@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/developer.mohit) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohit-soni-808984265/) [![Bento](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](https://developer-mohit.netlify.app) [![Leetcode](https://img.shields.io/badge/-Leetcode-000?&style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mohitsoni77/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&style=for-the-badge&logo=gmail&logoColor=EB1928)](mailto:mohitsoni9731@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/developer.mohit) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohit-soni-808984265/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](https://developer-mohit.netlify.app) [![Leetcode](https://img.shields.io/badge/-Leetcode-000?&style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mohitsoni77/)
 
 ---
