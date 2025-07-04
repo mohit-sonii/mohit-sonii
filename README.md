@@ -1,10 +1,8 @@
 <h1 align="center"><b>Hello there! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="👋" width="30" height="30" /> I'm Mohit Soni</b></h1>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕️" width="25" height="25"> **About Me**
-
-🌱 **Currently learning** <br>Java Full Stack<br><br>
+🎗 **Currently Working as** <br> Software Engineer at **Appolo Computers**<br><br>
 📧 **Reach ME** <br>mohitsoni777@outlook.com<br><br>
-👯 **Looking to collaborate on** <br>Full Stack Projects<br><br>
 💬 **Ask me about** <br>TypeScript, React, Next.js, Spring Boot
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="25" height="25"> **Tech Stack**
@@ -16,6 +14,8 @@
 ![JUnit](https://img.shields.io/badge/junit-000.svg?style=for-the-badge&logo=junit5&logoColor=%25E34F26)
 ![Hibernate](https://img.shields.io/badge/hibernate-000.svg?style=for-the-badge&logo=hibernate&logoColor=%23B48B33)
 ![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Keycloak](https://img.shields.io/badge/keycloak-000.svg?style=for-the-badge&logo=keycloak&logoColor=white)
+
 
 
 
